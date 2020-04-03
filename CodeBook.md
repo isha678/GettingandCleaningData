@@ -11,11 +11,11 @@ SITTING
 STANDING
 LAYING
 The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
-"activitylabel"
-"subject"
-"tBodyAcc-mean()-X"
-"tBodyAcc-mean()-Y"
-"tBodyAcc-mean()-Z"
+1. "activitylabel"
+2. "subject"
+3. "tBodyAcc-mean()-X"
+4. "tBodyAcc-mean()-Y"
+5. "tBodyAcc-mean()-Z"
 "tBodyAcc-std()-X"
 "tBodyAcc-std()-Y"
 "tBodyAcc-std()-Z"
